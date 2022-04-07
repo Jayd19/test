@@ -1,1 +1,1 @@
-# now i have a good undertant of git and github
+# now i have a good undertant of git and github.
